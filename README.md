@@ -22,7 +22,7 @@ src/main/java/com/fileorganizer/
 ## Installation
 
 1. Clone the repository:
-
+https://github.com/Muslimbello/Java_File-Organizer/
 2. Navigate to the project directory:
    cd fileorganizer
 
